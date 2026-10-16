@@ -1,0 +1,6 @@
+{
+  "name": "Kahoot Green English 12.1",
+  "description": "Trò chơi đố vui tương tác phong cách Kahoot Lớp 12 với đầy đủ 3 môn: Tin Học 12 (72 câu trọn bộ Đề Cương Cuối Kì I: Bài 3 đến Bài 8), Hóa Học 12 (Chương 1-5) và Tiếng Anh 12, kèm ngân hàng lời giải chi tiết và bảng xếp hạng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
